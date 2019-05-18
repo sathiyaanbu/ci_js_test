@@ -1,0 +1,8 @@
+{
+  "name": "ci_js_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sathiyaanbu/ci_js_test.git",
+  "author": "Sathiya-Anbu <msnature12@gmail.com>",
+  "license": "MIT"
+}
